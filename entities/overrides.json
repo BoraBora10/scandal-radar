@@ -1,0 +1,431 @@
+{
+  "BBY": {
+    "ceos": [
+      {
+        "name": "Jason Bonfig",
+        "aliases": [],
+        "source": "https://corporate.bestbuy.com/our-leadership/jason-bonfig/"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Ragjeet Prayanajamipal"
+    ]
+  },
+  "FDXF": {
+    "ceos": [
+      {
+        "name": "John A. Smith",
+        "aliases": [
+          "John Smith"
+        ],
+        "source": "https://ir.fedexfreight.com/company-information/executive-team"
+      }
+    ],
+    "company_aliases": [],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Raj Subramaniam"
+    ]
+  },
+  "WEC": {
+    "ceos": [
+      {
+        "name": "Scott J. Lauber",
+        "aliases": [
+          "Scott Lauber"
+        ],
+        "source": "https://www.wecenergygroup.com/about/management_team/bios/lauber_bio.htm"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Gale Klappa"
+    ]
+  },
+  "AOS": {
+    "ceos": [
+      {
+        "name": "Stephen M. Shafer",
+        "aliases": [
+          "Stephen Shafer",
+          "Steve Shafer"
+        ],
+        "source": "https://www.aosmith.com/about-us-leadership/stephen-shafer.html"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Kevin J. Wheeler"
+    ]
+  },
+  "HRL": {
+    "ceos": [
+      {
+        "name": "John Ghingo",
+        "aliases": [],
+        "source": "https://investor.hormelfoods.com/news-and-events/news/news-details/2026/Hormel-Foods-Names-John-Ghingo-Next-Chief-Executive-Officer/default.aspx"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Jeff Ettinger"
+    ]
+  },
+  "MNST": {
+    "ceos": [
+      {
+        "name": "Hilton H. Schlosberg",
+        "aliases": [
+          "Hilton Schlosberg"
+        ],
+        "source": "https://investors.monsterbevcorp.com/static-files/e971c865-53a3-4bab-9ef0-36529b7502c6"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Rodney Sacks",
+      "Hilton Schlosberg"
+    ]
+  },
+  "NXPI": {
+    "ceos": [
+      {
+        "name": "Rafael Sotomayor",
+        "aliases": [],
+        "source": "https://www.nxp.com/company/about-nxp/nxp-leadership/rafael-sotomayor:RAFAEL-SOTOMAYOR"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Kurt Sievers"
+    ]
+  },
+  "CCL": {
+    "ceos": [
+      {
+        "name": "Josh Weinstein",
+        "aliases": [],
+        "source": "https://www.carnivalcorp.com/our-team/josh-weinstein/"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Arnold W. Donald"
+    ]
+  },
+  "IDXX": {
+    "ceos": [
+      {
+        "name": "Michael G. Erickson",
+        "aliases": [
+          "Michael Erickson",
+          "Mike Erickson"
+        ],
+        "source": "https://ir.idexx.com/sec-filings/all-sec-filings/content/0000874716-26-000054/idxx-20260313.htm"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "Jay Mazelsky"
+    ]
+  },
+  "MLM": {
+    "ceos": [
+      {
+        "name": "C. Howard Nye",
+        "aliases": [
+          "Ward Nye"
+        ],
+        "source": "https://ir.martinmarietta.com/board-directors-corporate-officers/c-nye?order=field_nir_sec_form&sort=asc"
+      }
+    ],
+    "checked_on": "2026-11-18",
+    "replaces_names": [
+      "C. Nye"
+    ]
+  },
+  "AEE": {
+    "ceos": [
+      {
+        "name": "Martin J. Lyons Jr.",
+        "aliases": [
+          "Martin Lyons Jr.",
+          "Martin Lyons"
+        ],
+        "source": "https://www.amereninvestors.com/investors/financial-releases/financial-releases-details/2026/Ameren-Corporation-Third-Quarter-2026-Earnings-Webcast-set-for-Nov--6-2026/default.aspx"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "ARES": {
+    "ceos": [
+      {
+        "name": "Michael Arougheti",
+        "aliases": [
+          "Mike Arougheti"
+        ],
+        "source": "https://www.aresmgmt.com/news-views/cnbc-interview-michael-arougheti"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "AJG": {
+    "ceos": [
+      {
+        "name": "J. Patrick Gallagher Jr.",
+        "aliases": [],
+        "source": "https://www.ajg.com/about-us/executive-team/"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "BF.B": {
+    "ceos": [
+      {
+        "name": "Lawson Whiting",
+        "aliases": [],
+        "source": "https://www.brown-forman.com/leadership-and-governance"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "CRH": {
+    "ceos": [
+      {
+        "name": "Jim Mintern",
+        "aliases": [],
+        "source": "https://www.crh.com/who-we-are/leadership/executive-team/"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "CCI": {
+    "ceos": [
+      {
+        "name": "Chris Hillabrant",
+        "aliases": [],
+        "source": "https://investor.crowncastle.com/"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "DXCM": {
+    "ceos": [
+      {
+        "name": "Jacob Leach",
+        "aliases": [
+          "Jake Leach"
+        ],
+        "source": "https://www.dexcom.com/en-us/dexcom-leadership"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "DLTR": {
+    "ceos": [
+      {
+        "name": "Mike Creedon",
+        "aliases": [],
+        "source": "https://corporate.dollartree.com/news-media/press-releases/detail/312/dollar-tree-inc-to-host-third-quarter-earnings-conference"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "EL": {
+    "ceos": [
+      {
+        "name": "Stéphane de La Faverie",
+        "aliases": [],
+        "source": "https://media.elcompanies.com/files/e/estee-lauder-companies/global/investors/earnings-and-financials/quarterly-earnings/2027/q1/q1-fiscal-2027-presentation-v1.pdf"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "EXPD": {
+    "ceos": [
+      {
+        "name": "Dan Wall",
+        "aliases": [],
+        "source": "https://investor.expeditors.com/tools/viewpdf.aspx?page=%7B5BE2E394-3B40-4FD4-A1B4-AF46566EC32B%7D"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "GDDY": {
+    "ceos": [
+      {
+        "name": "Aman Bhutani",
+        "aliases": [],
+        "source": "https://www.godaddy.com/resources/author/aman-bhutani"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "PODD": {
+    "ceos": [
+      {
+        "name": "Ashley McEvoy",
+        "aliases": [],
+        "source": "https://investors.insulet.com/leadership-governance/board-of-directors/default.aspx"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "LIN": {
+    "ceos": [
+      {
+        "name": "Sanjiv Lamba",
+        "aliases": [],
+        "source": "https://www.linde.com/about-us/corporate-governance/board-of-directors/sanjiv-lamba"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "LULU": {
+    "ceos": [
+      {
+        "name": "Heidi O'Neill",
+        "aliases": [],
+        "source": "https://corporate.lululemon.com/investors/corporate-governance/board-of-directors"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "MU": {
+    "ceos": [
+      {
+        "name": "Sanjay Mehrotra",
+        "aliases": [],
+        "source": "https://www.micron.com/about/company/leadership"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "NEE": {
+    "ceos": [
+      {
+        "name": "John W. Ketchum",
+        "aliases": [
+          "John Ketchum"
+        ],
+        "source": "https://www.nexteraenergy.com/about-us/leadership.html"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "NSC": {
+    "ceos": [
+      {
+        "name": "Mark George",
+        "aliases": [],
+        "source": "https://www.norfolksouthern.com/en/newsroom/news-releases/norfolk-southern-reports-third-quarter-2026-results"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "OXY": {
+    "ceos": [
+      {
+        "name": "Richard Jackson",
+        "aliases": [],
+        "source": "https://www.oxy.com/siteassets/documents/investors/quarterly-earnings/oxy3q26transcript.pdf"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "ODFL": {
+    "ceos": [
+      {
+        "name": "Kevin \"Marty\" Freeman",
+        "aliases": [
+          "Marty Freeman",
+          "Kevin Freeman"
+        ],
+        "source": "https://ir.odfl.com/tear-sheet"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "RF": {
+    "ceos": [
+      {
+        "name": "John M. Turner Jr.",
+        "aliases": [
+          "John Turner"
+        ],
+        "source": "https://ir.regions.com/governance/management/default.aspx"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "ROL": {
+    "ceos": [
+      {
+        "name": "Jerry E. Gahlhoff Jr.",
+        "aliases": [
+          "Jerry Gahlhoff Jr."
+        ],
+        "source": "https://www.rollins.com/about-us/executive-leadership-team"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "SBAC": {
+    "ceos": [
+      {
+        "name": "Brendan Cavanagh",
+        "aliases": [],
+        "source": "https://ir.sbasite.com/news-events/press-releases/news-details/2026/SBA-Communications-Corporation-Reports-Third-Quarter-2026-Results-Updates-Full-Year-2026-Outlook-and-Declares-Quarterly-Cash-Dividend/default.aspx"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "TER": {
+    "ceos": [
+      {
+        "name": "Greg Smith",
+        "aliases": [],
+        "source": "https://investors.teradyne.com/news-events/press-releases/detail/458/teradyne-to-present-at-the-2026-ubs-global-technology-and-ai-conference"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18"
+  },
+  "WM": {
+    "ceos": [
+      {
+        "name": "James C. Fish Jr.",
+        "aliases": [
+          "Jim Fish"
+        ],
+        "source": "https://investors.wm.com/static-files/52dbae2d-ead6-424f-b21a-36636de34e9a"
+      }
+    ],
+    "only_if_unresolved": true,
+    "checked_on": "2026-11-18",
+    "valid_until": "2027-01-04"
+  }
+}

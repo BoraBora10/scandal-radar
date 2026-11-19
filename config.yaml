@@ -1,0 +1,5 @@
+demo:
+  interval_seconds: 10
+  speed: 1
+alerts:
+  levels: [verified, developing]

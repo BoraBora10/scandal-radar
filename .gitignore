@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+.env
+.env.*
+!.env.example
+.openai/
+.ruff_cache/
+*.egg-info/
+__pycache__/
+.data/
+*.pyc
+.DS_Store
